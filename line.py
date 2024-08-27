@@ -8,7 +8,7 @@ def line():
     print(f"El coeficiente X1 de su ecuación de la recta es: {coefX1}")
     print(f"El coeficiente X2 de su ecuación de la recta es: {coefX2}")
     print("\nPara la siguiente ecuación:")
-    print(f"\tY={coefA}X + {coefB}")
+    print(f"\tY = {coefA}X + {coefB}")
     print("\nDados los siguientes puntos:")
     cord1=coefA*coefX1+coefB
     print(f"\tP1 ({coefX1}, {cord1})")
